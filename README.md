@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-
+Email:rishinirmal9810@gmail.com
+phone:+91 7973490508 (any help for contact)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
